@@ -7,7 +7,6 @@ Stay awhile and checkout the exciting projects I'm working on!
 
 
 ![Song Affinity Prediction](https://github.com/mcheaman/mc_docs/blob/main/SongAffinity/SongAffinityTeaser.png)  
-![alt text](https://github.com/mcheaman/mc_docs/blob/main/SongAffinityTeaser.png?raw=true)  
 ![OOP Board Game Report](https://github.com/mcheaman/mc_docs/blob/main/DeadwoodReport.pdf)  
 ![alt text](https://github.com/mcheaman/mc_docs/blob/main/DeadwoodTeaser.png?raw=true)  
 ![NLP Song Generator](https://github.com/mcheaman/mc_docs/blob/main/NeuralSongs.pdf)  
