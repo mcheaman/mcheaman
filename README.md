@@ -1,6 +1,4 @@
-Hi! I'm Mason, a CS undergraduate at Western Washington University.  
-I am really interested in AI/ML and Software Engineering.    
-Looking for an full time position as a Software Engineer or Machine Learning Engineer
+Hi! I'm Mason, a Software Development Engineer at Amazon.
 
 Stay awhile and checkout the exciting projects I'm working on!   
 ![Work Examples and Documentation](https://github.com/mcheaman/mc_docs)  
