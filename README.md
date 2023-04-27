@@ -1,6 +1,6 @@
-Hi! I'm Mason, a Software Development Engineer at Amazon.
+Hi! I'm Mason, a Software Development Engineer formerly employed at Amazon. After being impacted by an org-wide layoff, I am currently looking for a new development opportunity in the greater Seattle area or remote location. 
 
-Stay awhile and checkout the exciting projects I'm working on!   
+Stay awhile and checkout the exciting projects I have worked on!   
 ![Work Examples and Documentation](https://github.com/mcheaman/mc_docs)  
 
 ![RESTful React App](https://github.com/mcheaman/restful_react)  
