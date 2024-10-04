@@ -2,8 +2,7 @@ Hi! I'm Mason, a Software Development Engineer formerly employed at Amazon. Afte
 
 Stay awhile and checkout the exciting projects I have worked on!   
 [Work Examples, Resume, and Documentation](https://github.com/mcheaman/mc_docs)  
-[FormulaAnalysis](https://github.com/mcheaman/FormulaAnalysis)  
-![alt text](https://github.com/mcheaman/FormulaAnalysis/blob/main/FormulaAnalysis.drawio.png?raw=true)  
+[FormulaAnalysis: Java Spring Boot + Python ETL](https://github.com/mcheaman/FormulaAnalysis)  
 [RESTful React App](https://github.com/mcheaman/restful_react)  
 ![alt text](https://github.com/mcheaman/restful_react/blob/main/diagrams/Structure.png?raw=true)  
 [Song Affinity Prediction](https://github.com/mcheaman/mc_docs/blob/main/SongAffinity) 
